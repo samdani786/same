@@ -1,1 +1,2 @@
 Hi this is b.txt first line 
+second line
